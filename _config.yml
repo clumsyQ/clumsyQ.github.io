@@ -16,8 +16,8 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: clumsyQ/clumsyQ.github.io
-github_url: https://clumsyQ.github.io
-url: http://www.ityouknow.com
+github_url: https://github.com/clumsyQ
+url: https://clumsyq.github.io/
 enforce_ssl: ityouknow.com
 
 ## Gem
